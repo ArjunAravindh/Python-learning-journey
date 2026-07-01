@@ -16,3 +16,11 @@ Python is very versatile. Some of its top applications include:
 - Audio and Video Applications
 - Gaming Program
 - Networking Programs, etc
+
+## Platforms and Softwares to program in Python
+1. Integrated Development Environments (IDEs)
+    - Visual Studio Code
+    - PyCharm
+2. Interactive & learning platforms
+    - Jupyter Notebook
+    - Python IDLE
