@@ -8,9 +8,11 @@ Python is one of the best things ever because it scales really well. It's powerf
 
 ## What can you do with it? (Application)
 Python is very versatile. Some of its top applications include:
-- Web Development - Software Development - Mathematics
--Machine Learning
--Artificial Intelligence
--Audio and Video Applications
--Gaming Program
--Networking Programs, etc
+- Web Development
+- Software Development
+- Mathematics
+- Machine Learning
+- Artificial Intelligence
+- Audio and Video Applications
+- Gaming Program
+- Networking Programs, etc
