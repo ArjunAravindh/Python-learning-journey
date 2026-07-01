@@ -19,8 +19,8 @@ Python is very versatile. Some of its top applications include:
 
 ## Platforms and Softwares to program in Python
 1. Integrated Development Environments (IDEs)
-   - Visual Studio Code
-   - PyCharm
+  - Visual Studio Code
+  - PyCharm
 2. Interactive & learning platforms
-   - Jupyter Notebook
-   - Python IDLE
+  - Jupyter Notebook
+  - Python IDLE
